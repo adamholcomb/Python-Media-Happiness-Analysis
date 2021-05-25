@@ -1,4 +1,6 @@
-# **Project GitHub:**
+# **Project**
+
+**GitHub:** 
 
 Media_HappinessIndex
 
@@ -26,8 +28,7 @@ Genres by Region
 
 **Datasets to be Used:**
 Happiness Index
-Netflix APIs 
-Rough Breakdown of Tasks
+Netflix datasets 
 
 
 
