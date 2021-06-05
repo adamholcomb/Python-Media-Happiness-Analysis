@@ -132,3 +132,5 @@ dmypy.json
 .pyre/
 Data Sets/.DS_Store
 Untitled.ipynb
+.DS_Store
+.DS_Store
