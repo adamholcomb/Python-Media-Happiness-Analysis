@@ -1,2 +1,0 @@
-# Media_HappinessIndex
-Media_HappinessIndex
